@@ -3,8 +3,10 @@
 ## Aperçu
 
 
-![alt text][assets/image/page1.png]  
-![alt text][assets/image/page2.png]
+![alt text](assets/image/page1.png "Logo Title Text 1") 
+
+![alt text](assets/image/page2.png "Logo Title Text 1")
+
 
 ## Installation
 
